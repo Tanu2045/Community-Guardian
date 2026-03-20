@@ -1,0 +1,293 @@
+{
+  "summary": {
+    "loaded": 25,
+    "relevant": 12,
+    "filtered_out": 13,
+    "persona": "student",
+    "primary_location": "",
+    "watch_locations": [],
+    "focus_categories": [],
+    "category_filter": null,
+    "query_filter": null,
+    "displayed_items": 12,
+    "ui_location_filter": null,
+    "use_ai": true
+  },
+  "alerts": [
+    {
+      "id": 1,
+      "source": "security_feed",
+      "content": "Phishing SMS campaign in East Park is impersonating City Utility billing and asking for card verification through a fake link.",
+      "location": "East Park",
+      "timestamp": "2026-03-20T07:10:00+05:30",
+      "category": "phishing",
+      "is_relevant": true,
+      "relevance_reason": "Phishing is a general security threat relevant to students, who are also potential targets of such scams. The alert warns about a phishing SMS campaign, which is a broad risk.",
+      "duplicate_of": null
+    },
+    {
+      "id": 2,
+      "source": "news",
+      "content": "Officials warn of phishing texts in East Park pretending to be City Utility billing support with fake verification links.",
+      "location": "East Park",
+      "timestamp": "2026-03-20T07:16:00+05:30",
+      "category": "phishing",
+      "is_relevant": false,
+      "relevance_reason": "The alert describes a phishing scam, which is a general threat relevant to any user, regardless of specific location or category focus.",
+      "duplicate_of": 1
+    },
+    {
+      "id": 3,
+      "source": "social",
+      "content": "Got a phishing SMS in East Park from fake City Utility billing asking card verification on a suspicious link.",
+      "location": "East Park",
+      "timestamp": "2026-03-20T07:23:00+05:30",
+      "category": "phishing",
+      "is_relevant": false,
+      "relevance_reason": "The alert describes a phishing attempt in East Park, which is a general security concern relevant to all users, including students. The user's primary location is 'any', and there are no restrictive focus categories.",
+      "duplicate_of": 1
+    },
+    {
+      "id": 4,
+      "source": "security_feed",
+      "content": "Another wave of phishing SMS in East Park is using fake City Utility billing links for card verification.",
+      "location": "East Park",
+      "timestamp": "2026-03-20T07:31:00+05:30",
+      "category": "phishing",
+      "is_relevant": false,
+      "relevance_reason": "Phishing is a general security threat relevant to all users, including students, regardless of specific location settings.",
+      "duplicate_of": 1
+    },
+    {
+      "id": 5,
+      "source": "news",
+      "content": "Internet outage reported in Lakeside after fiber cable damage near the metro corridor.",
+      "location": "Lakeside",
+      "timestamp": "2026-03-20T08:05:00+05:30",
+      "category": "outage",
+      "is_relevant": true,
+      "relevance_reason": "An internet outage can affect anyone, including students, regardless of specific location settings, making it generally relevant as a community alert.",
+      "duplicate_of": null
+    },
+    {
+      "id": 6,
+      "source": "social",
+      "content": "No internet in Lakeside since morning after fiber cable damage near the metro corridor.",
+      "location": "Lakeside",
+      "timestamp": "2026-03-20T08:13:00+05:30",
+      "category": "outage",
+      "is_relevant": false,
+      "relevance_reason": "The alert describes an internet outage, which is a general community concern relevant to a student persona with no specific location or category filters.",
+      "duplicate_of": 5
+    },
+    {
+      "id": 7,
+      "source": "security_feed",
+      "content": "Scam callers in Old Town are impersonating police and demanding urgent payment through gift cards.",
+      "location": "Old Town",
+      "timestamp": "2026-03-20T09:00:00+05:30",
+      "category": "scam",
+      "is_relevant": false,
+      "relevance_reason": "profile_category_mismatch",
+      "duplicate_of": null
+    },
+    {
+      "id": 8,
+      "source": "social",
+      "content": "Caller pretending to be police in Old Town asked for urgent payment using gift cards.",
+      "location": "Old Town",
+      "timestamp": "2026-03-20T09:09:00+05:30",
+      "category": "scam",
+      "is_relevant": false,
+      "relevance_reason": "The alert describes a scam, which is generally relevant for all users as no specific location or category filters exclude it.",
+      "duplicate_of": 7
+    },
+    {
+      "id": 9,
+      "source": "news",
+      "content": "Downtown hospital systems are offline after a ransomware attack was reported.",
+      "location": "Downtown",
+      "timestamp": "2026-03-20T09:40:00+05:30",
+      "category": "outage",
+      "is_relevant": true,
+      "relevance_reason": "The alert concerns a critical infrastructure outage (hospital systems) due to a ransomware attack in Downtown. Given the user's broad profile as a student with no specific location or category focus, this is a significant community event that is relevant.",
+      "duplicate_of": null
+    },
+    {
+      "id": 10,
+      "source": "security_feed",
+      "content": "Ransomware incident confirmed at Downtown hospital with critical systems temporarily offline.",
+      "location": "Downtown",
+      "timestamp": "2026-03-20T09:47:00+05:30",
+      "category": "breach",
+      "is_relevant": false,
+      "relevance_reason": "The alert describes a significant ransomware incident affecting a Downtown hospital, making it relevant as a community alert.",
+      "duplicate_of": 9
+    },
+    {
+      "id": 11,
+      "source": "news",
+      "content": "Flood warning issued for Riverbank low-lying roads due to heavy rainfall and rising water levels.",
+      "location": "Riverbank",
+      "timestamp": "2026-03-20T10:25:00+05:30",
+      "category": "outage",
+      "is_relevant": true,
+      "relevance_reason": "The alert is a flood warning due to heavy rainfall and rising water levels in Riverbank, which is relevant for general community awareness and safety, potentially impacting travel or daily activities.",
+      "duplicate_of": null
+    },
+    {
+      "id": 12,
+      "source": "social",
+      "content": "Riverbank low-lying roads are flooding after heavy rainfall and rising water levels.",
+      "location": "Riverbank",
+      "timestamp": "2026-03-20T10:33:00+05:30",
+      "category": "outage",
+      "is_relevant": false,
+      "relevance_reason": "The alert describes a flood in Riverbank, which is a general safety concern that could impact a student, especially since no specific location filters are set.",
+      "duplicate_of": 11
+    },
+    {
+      "id": 13,
+      "source": "security_feed",
+      "content": "Fake courier SMS across Citywide asks users to pay customs charges through suspicious payment links.",
+      "location": "Citywide",
+      "timestamp": "2026-03-20T11:05:00+05:30",
+      "category": "phishing",
+      "is_relevant": true,
+      "relevance_reason": "The alert concerns a citywide phishing scam, which is generally relevant given the user's 'any' primary location and no specific focus categories or watch locations.",
+      "duplicate_of": null
+    },
+    {
+      "id": 14,
+      "source": "social",
+      "content": "Received fake courier SMS asking customs payment from a suspicious link across Citywide.",
+      "location": "Citywide",
+      "timestamp": "2026-03-20T11:12:00+05:30",
+      "category": "phishing",
+      "is_relevant": false,
+      "relevance_reason": "The alert describes a citywide phishing attempt via fake courier SMS, which is generally relevant to any user.",
+      "duplicate_of": 13
+    },
+    {
+      "id": 15,
+      "source": "news",
+      "content": "Power outage in South Ridge after transformer failure and restoration work is in progress.",
+      "location": "South Ridge",
+      "timestamp": "2026-03-20T11:45:00+05:30",
+      "category": "outage",
+      "is_relevant": true,
+      "relevance_reason": "A power outage is a general community alert that could affect a student, and the user's primary location is 'any'.",
+      "duplicate_of": null
+    },
+    {
+      "id": 16,
+      "source": "social",
+      "content": "South Ridge has a power outage after transformer failure and restoration teams are working.",
+      "location": "South Ridge",
+      "timestamp": "2026-03-20T11:53:00+05:30",
+      "category": "outage",
+      "is_relevant": false,
+      "relevance_reason": "The alert is relevant as it reports a community-wide outage. User's primary location is 'any' and there are no specific focus categories or watch locations.",
+      "duplicate_of": 15
+    },
+    {
+      "id": 17,
+      "source": "security_feed",
+      "content": "Credential stuffing attempts detected on city education portal affecting student accounts.",
+      "location": "University Area",
+      "timestamp": "2026-03-20T12:05:00+05:30",
+      "category": "breach",
+      "is_relevant": true,
+      "relevance_reason": "The alert is highly relevant to a student persona as it describes credential stuffing attempts affecting student accounts on a city education portal.",
+      "duplicate_of": null
+    },
+    {
+      "id": 18,
+      "source": "news",
+      "content": "Water supply disruption announced in Central Market due to pipeline repair this afternoon.",
+      "location": "Central Market",
+      "timestamp": "2026-03-20T12:25:00+05:30",
+      "category": "outage",
+      "is_relevant": true,
+      "relevance_reason": "The alert reports a utility disruption which is generally relevant to a student persona, and there are no specific location or category filters applied.",
+      "duplicate_of": null
+    },
+    {
+      "id": 19,
+      "source": "security_feed",
+      "content": "Tax refund phishing emails are circulating and asking users to submit bank login details.",
+      "location": "Citywide",
+      "timestamp": "2026-03-20T12:50:00+05:30",
+      "category": "phishing",
+      "is_relevant": true,
+      "relevance_reason": "Phishing alerts are generally relevant to all users, including students, to help them avoid scams.",
+      "duplicate_of": null
+    },
+    {
+      "id": 20,
+      "source": "social",
+      "content": "Industrial Area has a major power outage and factories switched to backup systems.",
+      "location": "Industrial Area",
+      "timestamp": "2026-03-20T13:10:00+05:30",
+      "category": "outage",
+      "is_relevant": true,
+      "relevance_reason": "A major power outage, even if in a specific area, can be relevant to a user with 'any' primary location as it impacts the wider community and infrastructure.",
+      "duplicate_of": null
+    },
+    {
+      "id": 21,
+      "source": "news",
+      "content": "Central Market water supply disruption continues due to pipeline repair work this afternoon.",
+      "location": "Central Market",
+      "timestamp": "2026-03-20T12:34:00+05:30",
+      "category": "outage",
+      "is_relevant": false,
+      "relevance_reason": "The alert reports a water supply disruption in Central Market, which is a general community issue and relevant to a student user profile with no specific location or category filters.",
+      "duplicate_of": 18
+    },
+    {
+      "id": 22,
+      "source": "security_feed",
+      "content": "Database misconfiguration exposed internal records at a startup in Tech Park.",
+      "location": "Tech Park",
+      "timestamp": "2026-03-20T14:00:00+05:30",
+      "category": "breach",
+      "is_relevant": true,
+      "relevance_reason": "The alert is a security breach (database misconfiguration exposing records), which is generally relevant as it concerns data security.",
+      "duplicate_of": null
+    },
+    {
+      "id": 23,
+      "source": "social",
+      "content": "University Area students report credential stuffing style login attempts on the city education portal.",
+      "location": "University Area",
+      "timestamp": "2026-03-20T12:13:00+05:30",
+      "category": "breach",
+      "is_relevant": false,
+      "relevance_reason": "The alert is about credential stuffing attempts on the city education portal, directly affecting student accounts, which is relevant to a student user.",
+      "duplicate_of": 17
+    },
+    {
+      "id": 24,
+      "source": "news",
+      "content": "Advisory issued to avoid non-essential travel in North Block due to severe waterlogging.",
+      "location": "North Block",
+      "timestamp": "2026-03-20T14:40:00+05:30",
+      "category": "outage",
+      "is_relevant": true,
+      "relevance_reason": "The alert concerns a safety advisory due to severe waterlogging, which is a general concern for any resident, including students, affecting travel and daily life. The user has no specific location or category filters.",
+      "duplicate_of": null
+    },
+    {
+      "id": 25,
+      "source": "news",
+      "content": "Citywide advisory warns about tax refund phishing emails requesting bank login details.",
+      "location": "Citywide",
+      "timestamp": "2026-03-20T12:57:00+05:30",
+      "category": "phishing",
+      "is_relevant": false,
+      "relevance_reason": "The alert is about a citywide phishing scam, which is relevant to all users for security awareness.",
+      "duplicate_of": 19
+    }
+  ]
+}

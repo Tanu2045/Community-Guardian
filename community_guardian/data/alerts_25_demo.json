@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "source": "security_feed",
+    "content": "Phishing SMS campaign in East Park is impersonating City Utility billing and asking for card verification through a fake link.",
+    "location": "East Park",
+    "timestamp": "2026-03-20T07:10:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 2,
+    "source": "news",
+    "content": "Officials warn of phishing texts in East Park pretending to be City Utility billing support with fake verification links.",
+    "location": "East Park",
+    "timestamp": "2026-03-20T07:16:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 3,
+    "source": "social",
+    "content": "Got a phishing SMS in East Park from fake City Utility billing asking card verification on a suspicious link.",
+    "location": "East Park",
+    "timestamp": "2026-03-20T07:23:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 4,
+    "source": "security_feed",
+    "content": "Another wave of phishing SMS in East Park is using fake City Utility billing links for card verification.",
+    "location": "East Park",
+    "timestamp": "2026-03-20T07:31:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 5,
+    "source": "news",
+    "content": "Internet outage reported in Lakeside after fiber cable damage near the metro corridor.",
+    "location": "Lakeside",
+    "timestamp": "2026-03-20T08:05:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 6,
+    "source": "social",
+    "content": "No internet in Lakeside since morning after fiber cable damage near the metro corridor.",
+    "location": "Lakeside",
+    "timestamp": "2026-03-20T08:13:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 7,
+    "source": "security_feed",
+    "content": "Scam callers in Old Town are impersonating police and demanding urgent payment through gift cards.",
+    "location": "Old Town",
+    "timestamp": "2026-03-20T09:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 8,
+    "source": "social",
+    "content": "Caller pretending to be police in Old Town asked for urgent payment using gift cards.",
+    "location": "Old Town",
+    "timestamp": "2026-03-20T09:09:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 9,
+    "source": "news",
+    "content": "Downtown hospital systems are offline after a ransomware attack was reported.",
+    "location": "Downtown",
+    "timestamp": "2026-03-20T09:40:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 10,
+    "source": "security_feed",
+    "content": "Ransomware incident confirmed at Downtown hospital with critical systems temporarily offline.",
+    "location": "Downtown",
+    "timestamp": "2026-03-20T09:47:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 11,
+    "source": "news",
+    "content": "Flood warning issued for Riverbank low-lying roads due to heavy rainfall and rising water levels.",
+    "location": "Riverbank",
+    "timestamp": "2026-03-20T10:25:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 12,
+    "source": "social",
+    "content": "Riverbank low-lying roads are flooding after heavy rainfall and rising water levels.",
+    "location": "Riverbank",
+    "timestamp": "2026-03-20T10:33:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 13,
+    "source": "security_feed",
+    "content": "Fake courier SMS across Citywide asks users to pay customs charges through suspicious payment links.",
+    "location": "Citywide",
+    "timestamp": "2026-03-20T11:05:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 14,
+    "source": "social",
+    "content": "Received fake courier SMS asking customs payment from a suspicious link across Citywide.",
+    "location": "Citywide",
+    "timestamp": "2026-03-20T11:12:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 15,
+    "source": "news",
+    "content": "Power outage in South Ridge after transformer failure and restoration work is in progress.",
+    "location": "South Ridge",
+    "timestamp": "2026-03-20T11:45:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 16,
+    "source": "social",
+    "content": "South Ridge has a power outage after transformer failure and restoration teams are working.",
+    "location": "South Ridge",
+    "timestamp": "2026-03-20T11:53:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 17,
+    "source": "security_feed",
+    "content": "Credential stuffing attempts detected on city education portal affecting student accounts.",
+    "location": "University Area",
+    "timestamp": "2026-03-20T12:05:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 18,
+    "source": "news",
+    "content": "Water supply disruption announced in Central Market due to pipeline repair this afternoon.",
+    "location": "Central Market",
+    "timestamp": "2026-03-20T12:25:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 19,
+    "source": "security_feed",
+    "content": "Tax refund phishing emails are circulating and asking users to submit bank login details.",
+    "location": "Citywide",
+    "timestamp": "2026-03-20T12:50:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 20,
+    "source": "social",
+    "content": "Industrial Area has a major power outage and factories switched to backup systems.",
+    "location": "Industrial Area",
+    "timestamp": "2026-03-20T13:10:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 21,
+    "source": "news",
+    "content": "Central Market water supply disruption continues due to pipeline repair work this afternoon.",
+    "location": "Central Market",
+    "timestamp": "2026-03-20T12:34:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 22,
+    "source": "security_feed",
+    "content": "Database misconfiguration exposed internal records at a startup in Tech Park.",
+    "location": "Tech Park",
+    "timestamp": "2026-03-20T14:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 23,
+    "source": "social",
+    "content": "University Area students report credential stuffing style login attempts on the city education portal.",
+    "location": "University Area",
+    "timestamp": "2026-03-20T12:13:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 24,
+    "source": "news",
+    "content": "Advisory issued to avoid non-essential travel in North Block due to severe waterlogging.",
+    "location": "North Block",
+    "timestamp": "2026-03-20T14:40:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 25,
+    "source": "news",
+    "content": "Citywide advisory warns about tax refund phishing emails requesting bank login details.",
+    "location": "Citywide",
+    "timestamp": "2026-03-20T12:57:00+05:30",
+    "category": ""
+  }
+]

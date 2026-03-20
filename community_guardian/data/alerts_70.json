@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "source": "security_feed",
+    "content": "Multiple residents reported a phishing SMS pretending to be from City Utility Billing. Link asks for card re-verification.",
+    "location": "Riverside Ward",
+    "timestamp": "2026-03-18T07:15:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 2,
+    "source": "news",
+    "content": "Scheduled maintenance caused a power outage in North Block sectors 4 and 5. Service expected to return by 11:30 AM.",
+    "location": "North Block",
+    "timestamp": "2026-03-18T08:10:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 3,
+    "source": "social",
+    "content": "Everything is broken in this city, nobody cares anymore.",
+    "location": "Unknown",
+    "timestamp": "2026-03-18T08:20:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 4,
+    "source": "security_feed",
+    "content": "Confirmed scam call campaign: callers claim to be police and ask for immediate payment through gift cards.",
+    "location": "Old Town",
+    "timestamp": "2026-03-18T09:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 5,
+    "source": "social",
+    "content": "confirmed scam call campaign callers claim to be police and ask for immediate payment through gift cards",
+    "location": "Old Town",
+    "timestamp": "2026-03-18T09:07:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 6,
+    "source": "news",
+    "content": "Water supply disruption reported in Central Market due to pipeline repair work.",
+    "location": "Central Market",
+    "timestamp": "2026-03-18T09:30:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 7,
+    "source": "social",
+    "content": "Anyone else seeing weird login alerts for neighborhood community portal accounts?",
+    "location": "Lakeside",
+    "timestamp": "2026-03-18T10:02:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 8,
+    "source": "security_feed",
+    "content": "Neighborhood community portal experienced repeated failed login spikes. Users advised to reset passwords.",
+    "location": "Lakeside",
+    "timestamp": "2026-03-18T10:10:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 9,
+    "source": "social",
+    "content": "Power cut again in West End, happening too frequently this week.",
+    "location": "West End",
+    "timestamp": "2026-03-18T10:22:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 10,
+    "source": "news",
+    "content": "Internet outage reported across East Park due to fiber cut. Providers estimate restoration in 2 hours.",
+    "location": "East Park",
+    "timestamp": "2026-03-18T11:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 11,
+    "source": "social",
+    "content": "Internet down in East Park since morning after road digging near signal junction.",
+    "location": "East Park",
+    "timestamp": "2026-03-18T11:09:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 12,
+    "source": "security_feed",
+    "content": "Urgent: fake donation websites are impersonating flood relief groups and collecting card details.",
+    "location": "Citywide",
+    "timestamp": "2026-03-18T11:35:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 13,
+    "source": "social",
+    "content": "Why is everything down today in this area?",
+    "location": "Unknown",
+    "timestamp": "2026-03-18T12:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 14,
+    "source": "news",
+    "content": "Local hospital reported a ransomware attack, all systems temporarily offline.",
+    "location": "Downtown",
+    "timestamp": "2026-03-18T12:30:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 15,
+    "source": "security_feed",
+    "content": "Suspicious login attempts detected on municipal employee accounts, possible breach.",
+    "location": "City Hall",
+    "timestamp": "2026-03-18T13:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 16,
+    "source": "social",
+    "content": "Traffic is horrible on Main Street, avoid if possible.",
+    "location": "Main Street",
+    "timestamp": "2026-03-18T13:30:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 17,
+    "source": "news",
+    "content": "Flood warnings issued for Riverbank district due to heavy rain.",
+    "location": "Riverbank",
+    "timestamp": "2026-03-18T14:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 18,
+    "source": "news",
+    "content": "Power outage in South Ridge due to transformer failure. Crews dispatched.",
+    "location": "South Ridge",
+    "timestamp": "2026-03-18T14:20:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 19,
+    "source": "security_feed",
+    "content": "Users receiving emails claiming to be from bank KYC team asking for OTP verification.",
+    "location": "Citywide",
+    "timestamp": "2026-03-18T14:40:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 20,
+    "source": "social",
+    "content": "Got a weird email asking for my bank details, looks suspicious.",
+    "location": "Lakeside",
+    "timestamp": "2026-03-18T14:45:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 21,
+    "source": "news",
+    "content": "Mobile network disruption reported in Greenfield area due to tower maintenance.",
+    "location": "Greenfield",
+    "timestamp": "2026-03-18T15:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 22,
+    "source": "social",
+    "content": "No signal in Greenfield, anyone else facing this issue?",
+    "location": "Greenfield",
+    "timestamp": "2026-03-18T15:05:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 23,
+    "source": "security_feed",
+    "content": "Data breach suspected in local e-commerce platform exposing user email addresses.",
+    "location": "Citywide",
+    "timestamp": "2026-03-18T15:20:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 24,
+    "source": "social",
+    "content": "Just got spam emails after shopping online yesterday.",
+    "location": "North Block",
+    "timestamp": "2026-03-18T15:25:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 25,
+    "source": "news",
+    "content": "Heavy rainfall expected tonight, advisory issued for low-lying areas.",
+    "location": "Citywide",
+    "timestamp": "2026-03-18T15:40:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 26,
+    "source": "social",
+    "content": "Rain is getting intense near Riverbank.",
+    "location": "Riverbank",
+    "timestamp": "2026-03-18T16:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 27,
+    "source": "news",
+    "content": "Waterlogging reported in Downtown after continuous rain.",
+    "location": "Downtown",
+    "timestamp": "2026-03-18T16:20:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 28,
+    "source": "security_feed",
+    "content": "Fake job recruitment messages circulating asking for registration fees.",
+    "location": "Citywide",
+    "timestamp": "2026-03-18T16:40:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 29,
+    "source": "social",
+    "content": "Someone asked me to pay for a job application, sounds fake.",
+    "location": "Old Town",
+    "timestamp": "2026-03-18T16:45:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 30,
+    "source": "news",
+    "content": "Electricity restored in North Block after earlier outage.",
+    "location": "North Block",
+    "timestamp": "2026-03-18T17:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 31,
+    "source": "social",
+    "content": "Finally power is back in North Block.",
+    "location": "North Block",
+    "timestamp": "2026-03-18T17:05:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 32,
+    "source": "security_feed",
+    "content": "Malware campaign detected targeting Android devices through fake app downloads.",
+    "location": "Citywide",
+    "timestamp": "2026-03-18T17:20:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 33,
+    "source": "social",
+    "content": "My phone started acting weird after installing a random app.",
+    "location": "West End",
+    "timestamp": "2026-03-18T17:25:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 34,
+    "source": "news",
+    "content": "Traffic congestion reported near Central Square due to road repairs.",
+    "location": "Central Square",
+    "timestamp": "2026-03-18T17:40:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 35,
+    "source": "social",
+    "content": "Central Square jammed again, avoid peak hours.",
+    "location": "Central Square",
+    "timestamp": "2026-03-18T17:45:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 36,
+    "source": "news",
+    "content": "Internet services restored in East Park after fiber repair.",
+    "location": "East Park",
+    "timestamp": "2026-03-18T18:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 37,
+    "source": "social",
+    "content": "Internet is back finally in East Park.",
+    "location": "East Park",
+    "timestamp": "2026-03-18T18:05:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 38,
+    "source": "security_feed",
+    "content": "Credential stuffing attack observed on local education portal.",
+    "location": "Citywide",
+    "timestamp": "2026-03-18T18:20:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 39,
+    "source": "social",
+    "content": "Got logged out from my student portal randomly.",
+    "location": "University Area",
+    "timestamp": "2026-03-18T18:25:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 40,
+    "source": "news",
+    "content": "Minor flooding reported near Lakeside park due to heavy rain.",
+    "location": "Lakeside",
+    "timestamp": "2026-03-18T18:40:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 41,
+    "source": "news",
+    "content": "Power outage reported in Industrial Area due to equipment failure.",
+    "location": "Industrial Area",
+    "timestamp": "2026-03-18T19:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 42,
+    "source": "social",
+    "content": "Industrial area has no electricity right now.",
+    "location": "Industrial Area",
+    "timestamp": "2026-03-18T19:05:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 43,
+    "source": "security_feed",
+    "content": "Fake courier delivery messages asking users to pay customs fee are circulating.",
+    "location": "Citywide",
+    "timestamp": "2026-03-18T19:20:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 44,
+    "source": "social",
+    "content": "Received SMS about parcel delivery asking for payment.",
+    "location": "Greenfield",
+    "timestamp": "2026-03-18T19:25:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 45,
+    "source": "news",
+    "content": "Water supply restored in Central Market after pipeline fix.",
+    "location": "Central Market",
+    "timestamp": "2026-03-18T19:40:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 46,
+    "source": "social",
+    "content": "Water is back in Central Market area.",
+    "location": "Central Market",
+    "timestamp": "2026-03-18T19:45:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 47,
+    "source": "security_feed",
+    "content": "Database misconfiguration exposed internal records in small local startup.",
+    "location": "Tech Park",
+    "timestamp": "2026-03-18T20:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 48,
+    "source": "social",
+    "content": "Heard a startup leaked user data accidentally.",
+    "location": "Tech Park",
+    "timestamp": "2026-03-18T20:05:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 49,
+    "source": "news",
+    "content": "Rain intensity decreasing across the city, flood risk stabilizing.",
+    "location": "Citywide",
+    "timestamp": "2026-03-18T20:20:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 50,
+    "source": "social",
+    "content": "Looks like rain is slowing down now.",
+    "location": "Riverbank",
+    "timestamp": "2026-03-18T20:25:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 51,
+    "source": "news",
+    "content": "Temporary outage in telecom services reported in South Ridge.",
+    "location": "South Ridge",
+    "timestamp": "2026-03-18T20:40:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 52,
+    "source": "social",
+    "content": "Network is gone in South Ridge again.",
+    "location": "South Ridge",
+    "timestamp": "2026-03-18T20:45:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 53,
+    "source": "security_feed",
+    "content": "Phishing emails mimicking tax refund notifications observed widely.",
+    "location": "Citywide",
+    "timestamp": "2026-03-18T21:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 54,
+    "source": "social",
+    "content": "Got a tax refund mail asking for bank details.",
+    "location": "Downtown",
+    "timestamp": "2026-03-18T21:05:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 55,
+    "source": "news",
+    "content": "Road blocked near Riverbank due to water overflow.",
+    "location": "Riverbank",
+    "timestamp": "2026-03-18T21:20:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 56,
+    "source": "social",
+    "content": "Road near river is completely flooded.",
+    "location": "Riverbank",
+    "timestamp": "2026-03-18T21:25:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 57,
+    "source": "security_feed",
+    "content": "Multiple failed admin login attempts detected on local business portals.",
+    "location": "Citywide",
+    "timestamp": "2026-03-18T21:40:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 58,
+    "source": "social",
+    "content": "My business account showed suspicious login attempts.",
+    "location": "Central Square",
+    "timestamp": "2026-03-18T21:45:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 59,
+    "source": "news",
+    "content": "Power restored in Industrial Area after earlier failure.",
+    "location": "Industrial Area",
+    "timestamp": "2026-03-18T22:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 60,
+    "source": "social",
+    "content": "Electricity is back in Industrial Area now.",
+    "location": "Industrial Area",
+    "timestamp": "2026-03-18T22:05:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 61,
+    "source": "social",
+    "content": "This city infrastructure really needs improvement.",
+    "location": "Unknown",
+    "timestamp": "2026-03-18T22:20:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 62,
+    "source": "social",
+    "content": "Facing issues everywhere today, not a good day.",
+    "location": "Unknown",
+    "timestamp": "2026-03-18T22:25:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 63,
+    "source": "news",
+    "content": "Advisory issued to avoid non-essential travel due to waterlogging.",
+    "location": "Citywide",
+    "timestamp": "2026-03-18T22:40:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 64,
+    "source": "security_feed",
+    "content": "Fake insurance claim calls reported asking for policy verification details.",
+    "location": "Citywide",
+    "timestamp": "2026-03-18T23:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 65,
+    "source": "social",
+    "content": "Got a call about insurance asking for my details.",
+    "location": "Old Town",
+    "timestamp": "2026-03-18T23:05:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 66,
+    "source": "news",
+    "content": "Late night maintenance scheduled for telecom networks in Greenfield.",
+    "location": "Greenfield",
+    "timestamp": "2026-03-18T23:20:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 67,
+    "source": "social",
+    "content": "Expecting network issues tonight in Greenfield.",
+    "location": "Greenfield",
+    "timestamp": "2026-03-18T23:25:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 68,
+    "source": "security_feed",
+    "content": "Brute force attack attempts detected on multiple public-facing services.",
+    "location": "Citywide",
+    "timestamp": "2026-03-18T23:40:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 69,
+    "source": "social",
+    "content": "Sites are loading slowly tonight.",
+    "location": "Citywide",
+    "timestamp": "2026-03-18T23:45:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 70,
+    "source": "news",
+    "content": "City officials confirm all major services stabilizing after disruptions.",
+    "location": "Citywide",
+    "timestamp": "2026-03-19T00:00:00+05:30",
+    "category": ""
+  }
+]

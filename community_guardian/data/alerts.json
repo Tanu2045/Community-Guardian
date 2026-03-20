@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "source": "security_feed",
+    "content": "Multiple residents reported a phishing SMS pretending to be from City Utility Billing. Link asks for card re-verification.",
+    "location": "Riverside Ward",
+    "timestamp": "2026-03-18T07:15:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 2,
+    "source": "news",
+    "content": "Scheduled maintenance caused a power outage in North Block sectors 4 and 5. Service expected to return by 11:30 AM.",
+    "location": "North Block",
+    "timestamp": "2026-03-18T08:10:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 3,
+    "source": "social",
+    "content": "Everything is broken in this city, nobody cares anymore.",
+    "location": "Unknown",
+    "timestamp": "2026-03-18T08:20:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 4,
+    "source": "security_feed",
+    "content": "Confirmed scam call campaign: callers claim to be police and ask for immediate payment through gift cards.",
+    "location": "Old Town",
+    "timestamp": "2026-03-18T09:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 5,
+    "source": "social",
+    "content": "confirmed scam call campaign callers claim to be police and ask for immediate payment through gift cards",
+    "location": "Old Town",
+    "timestamp": "2026-03-18T09:07:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 6,
+    "source": "news",
+    "content": "",
+    "location": "Central Market",
+    "timestamp": "2026-03-18T09:30:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 7,
+    "source": "social",
+    "content": "Anyone else seeing weird login alerts for neighborhood community portal accounts?",
+    "location": "Lakeside",
+    "timestamp": "2026-03-18T10:02:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 8,
+    "source": "security_feed",
+    "content": "Neighborhood community portal experienced repeated failed login spikes. Users advised to reset passwords.",
+    "location": "Lakeside",
+    "timestamp": "2026-03-18T10:10:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 9,
+    "source": "social",
+    "content": "wow",
+    "location": "West End",
+    "timestamp": "2026-03-18T10:22:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 10,
+    "source": "news",
+    "content": "Internet outage reported across East Park due to fiber cut. Providers estimate restoration in 2 hours.",
+    "location": "East Park",
+    "timestamp": "2026-03-18T11:00:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 11,
+    "source": "social",
+    "content": "Internet down in East Park, no service since morning after road digging near signal junction.",
+    "location": "East Park",
+    "timestamp": "2026-03-18T11:09:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 12,
+    "source": "security_feed",
+    "content": "Urgent: fake donation websites are impersonating flood relief groups and collecting card details.",
+    "location": "Citywide",
+    "timestamp": "2026-03-18T11:35:00+05:30",
+    "category": ""
+  },
+  {
+    "id": 13,
+    "source": "social",
+    "content": "help??",
+    "location": "Unknown",
+    "timestamp": "2026-03-18T12:00:00+05:30",
+    "category": ""
+  },
+  {
+  "id": 14,
+  "source": "news",
+  "content": "Local hospital reported a ransomware attack, all systems temporarily offline.",
+  "location": "Downtown",
+  "timestamp": "2026-03-18T12:30:00+05:30",
+  "category": ""
+  },
+  {
+  "id": 15,
+  "source": "social",
+  "content": "Avoid the Street",
+  "location": "Main Street",
+  "timestamp": "2026-03-18T13:00:00+05:30",
+  "category": ""
+  },
+  {
+  "id": 16,
+  "source": "social",
+  "content": "Traffic is horrible on Main Street, avoid if possible.",
+  "location": "Main Street",
+  "timestamp": "2026-03-18T13:30:00+05:30",
+  "category": ""
+  },
+  {
+  "id": 17,
+  "source": "social",
+  "content": "There is traffic jam at Main Street",
+  "location": "Unknown",
+  "timestamp": "2026-03-18T14:00:00+05:30",
+  "category": ""
+  }
+
+]

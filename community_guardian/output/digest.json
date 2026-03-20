@@ -1,0 +1,256 @@
+{
+  "summary": {
+    "loaded": 25,
+    "relevant": 12,
+    "filtered_out": 13,
+    "persona": "student",
+    "primary_location": "",
+    "watch_locations": [],
+    "focus_categories": [],
+    "category_filter": null,
+    "query_filter": null,
+    "displayed_items": 12,
+    "ui_location_filter": null,
+    "use_ai": true
+  },
+  "digest": [
+    {
+      "id": 1,
+      "source": "security_feed",
+      "category": "phishing",
+      "location": "East Park",
+      "timestamp": "2026-03-20T07:10:00+05:30",
+      "framed_text": "Reports indicate a phishing SMS campaign is active in the East Park area. These messages are noted to be impersonating City Utility billing and may ask for card verification via a link.",
+      "confidence": "High",
+      "relevance_reason": "High",
+      "attention_guidance": "General awareness is helpful regarding communications that request personal information or ask you to click links. It's often recommended to verify the legitimacy of such requests through official channels.",
+      "why_this_matters": "Phishing SMS messages attempt to steal your personal or financial information by impersonating trusted organizations like utility companies. Clicking fake links can compromise your data.",
+      "actions": [
+        "Do not click any links in unexpected SMS messages, especially if they ask for personal or financial details.",
+        "If concerned about a bill, contact the utility company directly using official numbers or websites, not information from the suspicious message.",
+        "Delete the suspicious message and block the sender to prevent future attempts."
+      ],
+      "report_count": 4,
+      "verification_signal": "high"
+    },
+    {
+      "id": 5,
+      "source": "news",
+      "category": "outage",
+      "location": "Lakeside",
+      "timestamp": "2026-03-20T08:05:00+05:30",
+      "framed_text": "Regarding internet services in Lakeside: A disruption has been noted, which is understood to be associated with fiber cable issues near the metro corridor.",
+      "confidence": "High",
+      "relevance_reason": "Medium",
+      "attention_guidance": "For those in the Lakeside area, monitoring local service updates is recommended.",
+      "why_this_matters": "Local internet service is temporarily unavailable due to fiber cable damage, which may affect your online studies and communication.",
+      "actions": [
+        "Monitor for updates using alternative methods like mobile data or local news, to learn about restoration efforts.",
+        "Prioritize offline study tasks, reading, or assignments that do not require internet access.",
+        "Conserve battery life on your devices to maintain essential communication capabilities.",
+        "Notify professors or relevant parties if the outage impacts your ability to meet deadlines or participate in online activities."
+      ],
+      "report_count": 2,
+      "verification_signal": "medium"
+    },
+    {
+      "id": 9,
+      "source": "news",
+      "category": "outage",
+      "location": "Downtown",
+      "timestamp": "2026-03-20T09:40:00+05:30",
+      "framed_text": "It's helpful to focus on verified information. Reports indicate that hospital systems downtown are currently offline, following reports of a ransomware attack.",
+      "confidence": "High",
+      "relevance_reason": "Moderate",
+      "attention_guidance": "For accurate updates, refer to official communication channels.",
+      "why_this_matters": "Downtown hospital systems are offline due to a cyberattack. This means if you or someone you know needs medical attention in that area, services might be limited or unavailable, requiring alternative plans.",
+      "actions": [
+        "If you have an upcoming appointment at a Downtown hospital, contact them first to confirm its status before traveling.",
+        "For non-emergency medical needs, identify alternative clinics or hospitals outside the Downtown area that may be unaffected.",
+        "In an emergency, still call 911, but be aware that ambulance services may route patients to different facilities than usual.",
+        "Stay informed by monitoring official local news or health authority channels for updates on hospital service restoration."
+      ],
+      "report_count": 2,
+      "verification_signal": "medium"
+    },
+    {
+      "id": 11,
+      "source": "news",
+      "category": "outage",
+      "location": "Riverbank",
+      "timestamp": "2026-03-20T10:25:00+05:30",
+      "framed_text": "It's understandable to feel a bit concerned when you hear about local weather updates. A flood warning has been issued specifically for low-lying roads in Riverbank. This is due to heavy rainfall and observed rising water levels in the area. This information helps to keep everyone aware of current conditions in those particular locations.",
+      "confidence": "High",
+      "relevance_reason": "Moderate",
+      "attention_guidance": "Stay aware of official local updates and exercise caution if you are in or traveling through affected low-lying areas.",
+      "why_this_matters": "Heavy rainfall in Riverbank is causing rising water levels and flooding on low-lying roads, creating unsafe conditions.",
+      "actions": [
+        "Stay updated on local flood warnings and road closures from official sources.",
+        "Do not walk, bike, or drive through flooded areas; water can be deeper and more hazardous than it appears.",
+        "If you live in a low-lying area, consider moving essential items to a higher place.",
+        "Share your location and travel plans with a trusted contact if you are in or near affected areas."
+      ],
+      "report_count": 2,
+      "verification_signal": "medium"
+    },
+    {
+      "id": 13,
+      "source": "security_feed",
+      "category": "phishing",
+      "location": "Citywide",
+      "timestamp": "2026-03-20T11:05:00+05:30",
+      "framed_text": "A security alert indicates that phishing attempts are occurring citywide. These involve fake SMS messages, appearing to be from couriers, that request payment for customs charges via suspicious links.",
+      "confidence": "High",
+      "relevance_reason": "High",
+      "attention_guidance": "It's always a good practice to be cautious with unsolicited messages, particularly those requesting payments or personal details. If you receive such a message, it is best to verify the request directly with the official company using their established contact information, rather than clicking on any links provided in the message itself.",
+      "why_this_matters": "Phishing attempts via SMS are targeting individuals with fake courier messages to trick them into paying false customs charges. Engaging with these messages can lead to financial loss or compromise of personal information.",
+      "actions": [
+        "Treat unexpected SMS messages requesting payments or personal information, especially for customs, with caution.",
+        "Avoid clicking any links in suspicious messages; they often lead to malicious websites.",
+        "If you believe a message might be legitimate, contact the courier directly using official contact details found on their website, not from the SMS.",
+        "Report the scam SMS to your mobile provider or relevant authorities, then delete it."
+      ],
+      "report_count": 2,
+      "verification_signal": "medium"
+    },
+    {
+      "id": 15,
+      "source": "news",
+      "category": "outage",
+      "location": "South Ridge",
+      "timestamp": "2026-03-20T11:45:00+05:30",
+      "framed_text": "For your awareness, a power outage has been reported in South Ridge due to a transformer failure. Restoration work is currently in progress.",
+      "confidence": "High",
+      "relevance_reason": "Low",
+      "attention_guidance": "If you are in or have immediate concerns about the South Ridge area, monitor local official updates.",
+      "why_this_matters": "A power outage is affecting South Ridge due to a transformer failure, and restoration efforts are currently underway. Being prepared helps ensure your safety and protects your belongings during this period.",
+      "actions": [
+        "Check local utility websites or news for updates on restoration progress and estimated times.",
+        "Unplug sensitive electronics and appliances to protect them from potential power surges when electricity returns.",
+        "Use flashlights or battery-powered lamps for light instead of candles to avoid fire hazards.",
+        "Conserve mobile device battery for essential communication by limiting non-urgent use."
+      ],
+      "report_count": 2,
+      "verification_signal": "medium"
+    },
+    {
+      "id": 17,
+      "source": "security_feed",
+      "category": "breach",
+      "location": "University Area",
+      "timestamp": "2026-03-20T12:05:00+05:30",
+      "framed_text": "We understand that security updates can be concerning. Security teams have detected credential stuffing attempts focusing on student accounts that use the city education portal.",
+      "confidence": "High",
+      "relevance_reason": "High",
+      "attention_guidance": "Please refer to official communications for any further updates.",
+      "why_this_matters": "Credential stuffing attempts are targeting student accounts on the city education portal, meaning previously exposed passwords may be used to try and gain access.",
+      "actions": [
+        "Update your password for the city education portal immediately.",
+        "Ensure this new password is strong and unique, not used on any other site.",
+        "Activate two-factor authentication (2FA) if it's an option for your education portal account.",
+        "Review other online accounts for any unusual activity."
+      ],
+      "report_count": 2,
+      "verification_signal": "medium"
+    },
+    {
+      "id": 18,
+      "source": "news",
+      "category": "outage",
+      "location": "Central Market",
+      "timestamp": "2026-03-20T12:25:00+05:30",
+      "framed_text": "Regarding services in the Central Market area, a temporary adjustment to the water supply is anticipated this afternoon due to planned pipeline repairs.",
+      "confidence": 5,
+      "relevance_reason": 3,
+      "attention_guidance": "If you plan to be in the Central Market area this afternoon, you might consider adjusting your water use or making alternative arrangements.",
+      "why_this_matters": "Water supply in Central Market will be disrupted this afternoon due to pipeline repair, affecting access to running water.",
+      "actions": [
+        "Stay Informed: Check local announcements or building management for estimated duration and specific affected zones.",
+        "Prepare Water: Store enough drinking water for personal use and any immediate needs like handwashing or toilet flushing.",
+        "Conserve Water: Limit non-essential water use. Prioritize essential activities like hygiene.",
+        "Plan Ahead: If the disruption is extended, consider alternative arrangements for essential water-dependent tasks."
+      ],
+      "report_count": 2,
+      "verification_signal": "medium"
+    },
+    {
+      "id": 19,
+      "source": "security_feed",
+      "category": "phishing",
+      "location": "Citywide",
+      "timestamp": "2026-03-20T12:50:00+05:30",
+      "framed_text": "There are reports of emails circulating that appear to be related to tax refunds. These messages are identified as phishing attempts and may seek bank login details.",
+      "confidence": "High",
+      "relevance_reason": "High",
+      "attention_guidance": "It's always a good practice to be cautious with emails, especially those asking for sensitive information like bank login details. Reputable organizations typically do not request such information via email. If you receive a suspicious email, it's best to avoid clicking links and instead, navigate directly to official websites or contact institutions through verified channels if you need to confirm information.",
+      "why_this_matters": "Phishing emails requesting bank login details can lead to unauthorized access to your accounts and financial fraud.",
+      "actions": [
+        "Do not click on links or submit any personal information in unexpected tax refund emails.",
+        "Always navigate directly to official government or financial websites if you need to access your accounts.",
+        "Report suspicious emails to your email provider or IT security team without engaging with them."
+      ],
+      "report_count": 2,
+      "verification_signal": "medium"
+    },
+    {
+      "id": 20,
+      "source": "social",
+      "category": "outage",
+      "location": "Industrial Area",
+      "timestamp": "2026-03-20T13:10:00+05:30",
+      "framed_text": "Here is an update regarding a local situation. Reports indicate a power interruption in the Industrial Area. Facilities there have activated their backup systems.",
+      "confidence": "high",
+      "relevance_reason": "medium",
+      "attention_guidance": "No immediate action is typically required unless this area is relevant to your personal location or activities. Stay informed about local conditions if you are in the vicinity.",
+      "why_this_matters": "A major power outage in an industrial area can lead to wider disruptions, potentially affecting traffic, services, or related power grids.",
+      "actions": [
+        "Check official local sources for updates on the outage's extent and estimated restoration.",
+        "Assess how this might affect your commute, campus services, or power at your location if the outage spreads.",
+        "If power is stable where you are, ensure essential devices are charged in case of wider grid instability.",
+        "Adjust any plans that might involve traveling through or relying on services in the affected region."
+      ],
+      "report_count": 1,
+      "verification_signal": "low"
+    },
+    {
+      "id": 22,
+      "source": "security_feed",
+      "category": "breach",
+      "location": "Tech Park",
+      "timestamp": "2026-03-20T14:00:00+05:30",
+      "framed_text": "It's helpful to understand situations as they are reported. Information indicates a database misconfiguration was identified at a startup in Tech Park, which resulted in internal records becoming exposed.",
+      "confidence": "High",
+      "relevance_reason": "Moderate",
+      "attention_guidance": "Staying informed about general cybersecurity practices can be beneficial.",
+      "why_this_matters": "Database misconfigurations can expose personal data, highlighting the general importance of data security practices.",
+      "actions": [
+        "Check privacy settings on your online accounts.",
+        "Use strong, unique passwords for each service.",
+        "Enable two-factor authentication (2FA) for added security.",
+        "Be mindful of what personal information you share online."
+      ],
+      "report_count": 1,
+      "verification_signal": "low"
+    },
+    {
+      "id": 24,
+      "source": "news",
+      "category": "outage",
+      "location": "North Block",
+      "timestamp": "2026-03-20T14:40:00+05:30",
+      "framed_text": "It's helpful to stay informed about local conditions. An advisory has been issued for the North Block area, suggesting that non-essential travel be avoided due to waterlogging.",
+      "confidence": "High",
+      "relevance_reason": "High",
+      "attention_guidance": "If your travel to North Block is not essential, consider adjusting your plans in line with the advisory.",
+      "why_this_matters": "Severe waterlogging in North Block creates travel hazards and potential disruptions.",
+      "actions": [
+        "Check official updates for current conditions in North Block.",
+        "Reschedule or avoid non-essential travel to the area.",
+        "If travel is necessary, plan alternative routes around affected zones.",
+        "Prioritize safety by not attempting to traverse flooded roads or paths."
+      ],
+      "report_count": 1,
+      "verification_signal": "low"
+    }
+  ]
+}

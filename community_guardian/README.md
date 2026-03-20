@@ -13,6 +13,9 @@ Community Safety & Digital Wellness (Scenario 3)
 ~5–6 hours
 
 ---
+## 🎥 Video Demo
+ Link : https://youtu.be/d3Cy1yw-nO8
+
 
 ## 🚀 Quick Start
 

@@ -189,6 +189,6 @@ Yes
 * Ensured fallback logic works independently
 
 **Example of a rejected suggestion:**
-A fully AI-dependent classification approach was rejected in favor of a hybrid system with deterministic fallback to ensure reliability.
+Accepting very short/incomplete Gemini insight responses was rejected. We enforce payload validation (why must be a string and actions must contain 2–4 steps); invalid outputs fall back to deterministic templates
 
 ---

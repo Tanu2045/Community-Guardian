@@ -17,6 +17,8 @@ Community Safety & Digital Wellness (Scenario 3)
  Link : https://youtu.be/d3Cy1yw-nO8
 
 
+Note: We only fast-forwarded the part of the video where processing was taking place.
+
 ## 🚀 Quick Start
 
 ### Prerequisites:
